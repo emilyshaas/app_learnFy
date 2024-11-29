@@ -92,7 +92,7 @@ class _FavoritosScreenState extends State<FavoritosScreen> {
                 title: Text(
                   materia,
                   style: TextStyle(
-                    fontSize: 20,
+                    fontSize: 18,
                     fontWeight: FontWeight.bold,
                     color: Colors.white,
                   ),
