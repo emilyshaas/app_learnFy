@@ -25,7 +25,7 @@ class Ciencia extends StatelessWidget {
                   onPressed: () {
                   },
                   child: Text(
-                    'Biologia',
+                    'BiologiA',
                     style: TextStyle(fontSize: 24),
                   ),
                   style: ElevatedButton.styleFrom(
@@ -39,7 +39,7 @@ class Ciencia extends StatelessWidget {
               ),
               Container(
                 width: 500,
-                height: 210,
+                height: 200,
                 margin: EdgeInsets.all(10),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(20),
