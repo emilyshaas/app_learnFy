@@ -26,7 +26,7 @@ class Ciencia extends StatelessWidget {
                   },
                   child: Text(
                     'Biologia',
-                    style: TextStyle(fontSize: 24.3),
+                    style: TextStyle(fontSize: 25),
                   ),
                   style: ElevatedButton.styleFrom(
                     primary: Colors.transparent,
