@@ -39,7 +39,7 @@ class Ciencia extends StatelessWidget {
               ),
               Container(
                 width: 500,
-                height: 200,
+                height: 210,
                 margin: EdgeInsets.all(10),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(20),
